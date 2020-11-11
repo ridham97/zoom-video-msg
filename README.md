@@ -1,2 +1,5 @@
 # zoom-video-msg
-demo - [here](https://zoom-video-msg.herokuapp.com)
+
+Share your link(url) to your freinds to join.
+
+Demo - [Here](https://zoom-video-msg.herokuapp.com)
